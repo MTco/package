@@ -1,0 +1,37 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "homepage": "",
+  "description": "",
+  "keywords": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/user/repo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/user/repo/issues"
+  }
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "contributors": [
+    { "name": "", "email": "" },
+    { "name": "", "email": "" }
+  ],
+  "engines": {
+    "node": ""
+  },
+  "license": "MIT"
+}
