@@ -1,37 +1,30 @@
 {
-  "name": "",
+  "name": "package",
   "version": "0.0.1",
-  "homepage": "",
-  "description": "",
+  "homepage": "https://mrmrs.github.io/package",
+  "description": "A template for package.json files",
   "keywords": [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
+    "json",
+    "template",
+    "npm"
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/user/repo.git"
+    "url": "http://github.com/mrmrs/package.git"
   },
   "bugs": {
-    "url": "https://github.com/user/repo/issues"
+    "url": "https://github.com/mrmrs/package/issues"
   }
   "author": {
-    "name": "",
-    "email": "",
-    "url": ""
+    "name": "@mrmrs",
+    "email": "hi@mrmrs.cc",
+    "url": "http://mrmrs.cc"
   },
   "contributors": [
-    { "name": "", "email": "" },
-    { "name": "", "email": "" }
+    { "name": "@mrmrs", "email": "hi@mrmrs.cc" }
   ],
   "engines": {
-    "node": ""
+    "node": "=>0.10.22"
   },
   "license": "MIT"
 }
