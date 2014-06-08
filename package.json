@@ -19,8 +19,9 @@
     "url": "http://github.com/user/repo.git"
   },
   "bugs": {
-    "url": "https://github.com/user/repo/issues"
-  }
+    "url": "https://github.com/user/repo/issues",
+    "url": "hi@mrmrs.cc"
+  },
   "author": {
     "name": "",
     "email": "",
@@ -30,8 +31,5 @@
     { "name": "", "email": "" },
     { "name": "", "email": "" }
   ],
-  "engines": {
-    "node": ""
-  },
   "license": "MIT"
 }
