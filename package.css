@@ -264,7 +264,7 @@ article, section, div, main { box-sizing: border-box; }
 
 .thin    { font-weight: 100; }
 .title   { text-transform: uppercase; letter-spacing: .13em; }
-.bg-main { background-color: #001F3F; }
+.bg-main { background-color: #F06150; }
 main     { background-color: #fff; }
 .tc      { text-align: center; padding: 2rem; }
 .pv      { padding-top: 4em; padding-bottom: 4em; }
